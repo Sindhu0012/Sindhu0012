@@ -10,18 +10,11 @@
 
 ---
 
-### 💡 About Me
-
-Motivated Computer Science undergraduate with hands-on experience in full-stack development, mobile application development, UI/UX design, and AI integration. I enjoy building technology solutions that address real-world problems in productivity and social impact — and I take projects from idea to a shipped, working product, not just a prototype.
-
----
-
 ### 🚀 What I've Built
 
-- 📱 **[Zenwi](https://github.com/Sindhu0012/Zenwi)** — Smart study tracker with mood intelligence, an AI-powered study coach (Groq/LLaMA 3.1), and a shipped production APK built with React Native, Expo & Firebase
-- 🏃 **FitTrack** — Fitness tracker with full CRUD activity logging across 7 workout categories, streak-based gamification & data visualization
-- 🌱 Currently learning: backend fundamentals & AI/ML (NumPy, Pandas)
-- 🏆 Won a cash prize at a college technical fest hackathon
+- 📱 **[Zenwi](https://github.com/Sindhu0012/Zenwi)** — Smart study tracker with mood intelligence, an AI-powered study coach, and a shipped production APK (React Native, Expo, Firebase)
+- 🏃 **FitTrack** — Fitness tracker with full activity logging, streak gamification & data visualization
+- 🌱 Currently learning: backend fundamentals & AI/ML
 - 💬 **Open to Software Development / Mobile Dev internships**
 
 ---
@@ -54,7 +47,7 @@ Motivated Computer Science undergraduate with hands-on experience in full-stack 
 
 <p align="left">
 <a href="mailto:sindhusree.adepu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/adepu-sindhu-sree"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/adepu-sindhu-sree-88bb44331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 </div>
