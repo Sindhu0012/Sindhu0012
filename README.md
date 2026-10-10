@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Adepu Sindhu Sree
 
 Third-year B.Tech CSE student at KG Reddy College of Engineering & Technology, Hyderabad. I build AI-powered products end to end: mobile apps, backends and LLM integrations. Currently deepening my machine learning fundamentals.
