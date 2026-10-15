@@ -2,10 +2,6 @@
 
 Third-year B.Tech CSE student at KG Reddy College of Engineering & Technology, Hyderabad. I build AI-powered products end to end: mobile apps, backends and LLM integrations. Currently deepening my machine learning fundamentals.
 
-Open to internships in ML / AI engineering
-
-Third-year B.Tech CSE student at KG Reddy College of Engineering & Technology, Hyderabad. I build AI-powered products end to end: mobile apps, backends and LLM integrations. Currently deepening my machine learning fundamentals.
-
 Open to internships in ML / AI engineering, backend and full-stack development.
 
 ## Projects
