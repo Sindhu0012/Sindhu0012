@@ -18,6 +18,8 @@ Protects families from scam messages using a weighted rule engine, link inspecti
 **[FitTrack](https://github.com/Sindhu0012/FitnessTracker)** - Fitness and activity tracker
 React Native app with per-user authentication, activity logging across seven workout types, streaks, milestone badges and a 7-day calorie chart.
 
+[Zenwi RiskSense](https://github.com/Sindhu0012/zenwi-risksense) - ML prototype for student dropout risk. Caught a data leak (a perfect 1.0 score that came from a hard-coded label rule), then evaluated honestly on 80,000 students with only 2% positives using recall and PR-AUC. Python, pandas, scikit-learn.
+
 ## Tech
 
 ![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
