@@ -36,12 +36,6 @@ React Native app with per-user authentication, activity logging across seven wor
 ![Git](https://img.shields.io/badge/Git-555?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-555?style=flat-square&logo=figma&logoColor=white)
 
-## Contact
-
-[LinkedIn](https://linkedin.com/in/adepu-sindhu-sree-88bb44331) | [Email](mailto:sindhusree.adepu@gmail.com)
-EOF
-ackend and full-stack development.
-
 ## Projects
 
 **[Zenwi](https://github.com/Sindhu0012/Zenwi)** - Smart study tracker with mood intelligence
